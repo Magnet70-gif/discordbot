@@ -31,8 +31,8 @@ client.on('message', message => {
 
 // config.json
 {
-    "token": "votre token",
-    "prefix": "!"
+    "token": "NzUyMTA3NTUwNzYxMDI1NTk3.X1S0vQ.XReU465vStBIwOClBXUejH74kW8",
+    "prefix": "+"
 }
 
 // bonjour.js
